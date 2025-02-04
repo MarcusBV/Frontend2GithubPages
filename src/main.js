@@ -26,12 +26,12 @@ document.querySelector('#app').innerHTML = `
         <h3>Links</h3>
         <ul class="socialLinks">
           <li>
-            <a href="https://www.linkedin.com/in/marcusbv/"
+            <a href="https://www.linkedin.com/in/marcusbv/" target="_blank"
               ><i class="fa-brands fa-linkedin-in"></i> Marcus BV</a
             >
           </li>
           <li>
-            <a href="https://github.com/MarcusBV"
+            <a href="https://github.com/MarcusBV" target="_blank"
               ><i class="fa-brands fa-github"></i> MarcusBV</a
             >
           </li>
