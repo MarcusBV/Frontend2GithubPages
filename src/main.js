@@ -16,7 +16,7 @@ document.querySelector('#app').innerHTML = `
     </header>
     <main>
       <section id="about-me">
-        <img src="/ProfileImage.jpg" alt="Profile image" />
+        <img src="ProfileImage.jpg" alt="Profile image" />
         <h2>About me</h2>
         <p>
           Hello! I'm Marcus, currently a student at Nackademin studying .Net
@@ -45,7 +45,7 @@ document.querySelector('#app').innerHTML = `
 
       <section id="resume">
         <h2>Resumé/CV</h2>
-        <a class="downloadbutton" href="/resume.txt" download="resume.txt"
+        <a class="downloadbutton" href="resume.txt" download="resume.txt"
           >Download CV</a
         >
       </section>
